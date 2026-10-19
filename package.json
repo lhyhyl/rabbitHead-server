@@ -1,0 +1,11 @@
+{
+  "name": "malatutou-server",
+  "version": "1.0.0",
+  "description": "麻辣兔头点单小程序 · 自建服务端（EdgeOne Pages Cloud Functions，内存演示版）",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {}
+}
